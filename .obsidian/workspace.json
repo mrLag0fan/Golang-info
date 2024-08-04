@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junior/Language - Golang/Knowledge/Handles exceptions using language capabilities.md",
+                "file": "Junior/Language - Golang/Knowledge/Reuses and encapsulates related data and behaviour.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junior/Language - Golang/Knowledge/Handles exceptions using language capabilities.md",
+                "file": "Junior/Language - Golang/Knowledge/Reuses and encapsulates related data and behaviour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Junior/Language - Golang/Knowledge/Handles exceptions using language capabilities.md",
+                "file": "Junior/Language - Golang/Knowledge/Reuses and encapsulates related data and behaviour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Junior/Language - Golang/Knowledge/Handles exceptions using language capabilities.md"
+                "file": "Junior/Language - Golang/Knowledge/Reuses and encapsulates related data and behaviour.md"
               }
             }
           }
@@ -149,19 +149,19 @@
   },
   "active": "497e81ca96bf8f2f",
   "lastOpenFiles": [
-    "Junior/Language - Golang/Knowledge/Uses built-in iterators to traverse through different types of collections.md",
+    "Trainee/Language - Golang/Knowledge/Stores, reuses, and manipulates data.md",
     "Junior/Language - Golang/Knowledge/Reuses and encapsulates related data and behaviour.md",
+    "Trainee/Language - Golang/Knowledge/Uses and maintains language operators and comments.md",
+    "Trainee/Language - Golang/Knowledge/Stores, reuses, and operates on basic data types.md",
     "Junior/Language - Golang/Knowledge/Handles exceptions using language capabilities.md",
     "Junior/Language - Golang/Knowledge/Manages collections of data using language.md",
+    "Junior/Language - Golang/Knowledge/Uses built-in iterators to traverse through different types of collections.md",
     "Junior/Language - Golang/Knowledge/Creates and uses anonymous functions.md",
     "Pasted image 20240802142923.png",
     "1_GXoMWqljArmbjB0ReNioag.gif",
     "Pasted image 20240802140820.png",
     "Pasted image 20240802140816.png",
     "Junior/Language - Golang/Knowledge/Applies and maintains control flow structures.md",
-    "Trainee/Language - Golang/Knowledge/Stores, reuses, and manipulates data.md",
-    "Trainee/Language - Golang/Knowledge/Stores, reuses, and operates on basic data types.md",
-    "Trainee/Language - Golang/Knowledge/Uses and maintains language operators and comments.md",
     "README.md",
     "Junior/Data Storages/Data Storages.md",
     "Trainee/Data Storages/Selects data from a database using query language.md",
