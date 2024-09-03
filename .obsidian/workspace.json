@@ -11,11 +11,9 @@
             "id": "497e81ca96bf8f2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Junior/Language - Golang/Knowledge/Reuses and encapsulates related data and behaviour.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240805180820.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junior/Language - Golang/Knowledge/Reuses and encapsulates related data and behaviour.md",
+                "file": "Pasted image 20240805180820.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Junior/Language - Golang/Knowledge/Reuses and encapsulates related data and behaviour.md",
+                "file": "Pasted image 20240805180820.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Junior/Language - Golang/Knowledge/Reuses and encapsulates related data and behaviour.md"
+                "file": "Pasted image 20240805180820.png"
               }
             }
           }
@@ -149,43 +147,49 @@
   },
   "active": "497e81ca96bf8f2f",
   "lastOpenFiles": [
-    "Trainee/Language - Golang/Knowledge/Stores, reuses, and manipulates data.md",
-    "Junior/Language - Golang/Knowledge/Reuses and encapsulates related data and behaviour.md",
-    "Trainee/Language - Golang/Knowledge/Uses and maintains language operators and comments.md",
-    "Trainee/Language - Golang/Knowledge/Stores, reuses, and operates on basic data types.md",
-    "Junior/Language - Golang/Knowledge/Handles exceptions using language capabilities.md",
-    "Junior/Language - Golang/Knowledge/Manages collections of data using language.md",
-    "Junior/Language - Golang/Knowledge/Uses built-in iterators to traverse through different types of collections.md",
-    "Junior/Language - Golang/Knowledge/Creates and uses anonymous functions.md",
+    "Pasted image 20240805180854.png",
+    "Pasted image 20240805180820.png",
     "Pasted image 20240802142923.png",
-    "1_GXoMWqljArmbjB0ReNioag.gif",
     "Pasted image 20240802140820.png",
     "Pasted image 20240802140816.png",
-    "Junior/Language - Golang/Knowledge/Applies and maintains control flow structures.md",
-    "README.md",
     "Junior/Data Storages/Data Storages.md",
+    "Junior/Libraries - Go Back-End/Knowledge/Uses libraries capabilities to build basic navigation.md",
+    "Junior/Libraries - Go Back-End/Knowledge/Creates and updates files with libraries.md",
+    "Junior/Libraries - Go Back-End/Knowledge/Handles exceptions using libraries capabilities.md",
+    "Junior/Language - Golang/Knowledge/Uses built-in iterators to traverse through different types of collections.md",
+    "Junior/Language - Golang/Knowledge/Reuses and encapsulates related data and behaviour.md",
+    "Junior/Language - Golang/Knowledge/Manages collections of data using language.md",
+    "Junior/Language - Golang/Knowledge/Handles exceptions using language capabilities.md",
+    "Junior/Language - Golang/Knowledge/Creates and uses anonymous functions.md",
+    "Junior/Language - Golang/Knowledge/Applies and maintains control flow structures.md",
+    "Junior/Language - Golang/Skills/Applies and maintains control flow structures.md",
+    "Junior/Code-Based Testing - Go Back-End/Knowledge/Structures tests using framework capabilities.md",
+    "Junior/Code-Based Testing - Go Back-End/Knowledge/Applies community-recommended practices and methodologies for automated testing.md",
+    "Junior/Language - Golang/Skills/Uses built-in iterators to traverse through different types of collections.md",
+    "Pasted image 20240815144133.png",
+    "Junior/Language - Golang/Skills/Reuses and encapsulates related data and behaviour.md",
+    "Pasted image 20240815144026.png",
+    "Pasted image 20240815143820.png",
+    "Junior/Language - Golang/Skills/Manages collections of data using language.md",
+    "Pasted image 20240815143628.png",
+    "Pasted image 20240815143541.png",
+    "Pasted image 20240815143522.png",
+    "Junior/Language - Golang/Skills/Handles exceptions using language capabilities.md",
+    "Junior/Language - Golang/Skills/Creates and uses anonymous functions.md",
+    "Junior/Libraries - Go Back-End/Knowledge/Uses HTTP client libraries for API communication.md",
+    "Trainee/Language - Golang/Knowledge/Stores, reuses, and manipulates data.md",
+    "Trainee/Language - Golang/Knowledge/Uses and maintains language operators and comments.md",
+    "Trainee/Language - Golang/Knowledge/Stores, reuses, and operates on basic data types.md",
+    "README.md",
     "Trainee/Data Storages/Selects data from a database using query language.md",
     "Junior/Data Storages",
     "Trainee/Data Storages/Skills/Untitled.md",
-    "Trainee/Data Storages/Knowledge/Selects data from a database using query language.md",
-    "Junior/Code-Based Testing - Go Back-End/Knowledge/Validates individual components of the software in isolation by using unit tests.md",
     "Trainee/Data Storages/Skills",
     "Trainee/Data Storages/Knowledge",
     "Trainee/Data Storages",
-    "Junior/Code-Based Testing - Go Back-End/Skills/Validates individual components of the software in isolation by using unit tests.md",
-    "Junior/Code-Based Testing - Go Back-End/Skills/Uses dummy data for testing.md",
-    "Junior/Code-Based Testing - Go Back-End/Knowledge/Uses dummy data for testing.md",
-    "Junior/Code-Based Testing - Go Back-End/Skills/Uses assertions to validate test outcomes.md",
-    "Junior/Code-Based Testing - Go Back-End/Skills/Structures tests using framework capabilities.md",
-    "Junior/Code-Based Testing - Go Back-End/Knowledge/Uses assertions to validate test outcomes.md",
-    "Junior/Code-Based Testing - Go Back-End/Knowledge/Structures tests using framework capabilities.md",
-    "Junior/Code-Based Testing - Go Back-End/Skills/Applies community-recommended practices and methodologies for automated testing.md",
-    "Junior/Code-Based Testing - Go Back-End/Knowledge/Applies community-recommended practices and methodologies for automated testing.md",
-    "Junior/Libraries - Go Back-End/Knowledge/Uses libraries capabilities to build basic navigation.md",
     "Junior/Code-Based Testing - Go Back-End/Skills",
     "Junior/Code-Based Testing - Go Back-End/Knowledge",
     "Junior/Code-Based Testing - Go Back-End",
-    "Junior/Libraries - Go Back-End/Skills/Uses libraries capabilities to build basic navigation.md",
     "Junior/Libraries - Go Back-End/Skills",
     "Junior/Libraries - Go Back-End/Knowledge",
     "Junior/Libraries - Go Back-End/K.canvas",

@@ -1,3 +1,1 @@
-## Handles errors in the application
-## Handles panic
-## Compares errors
+![[Pasted image 20240815143325.png]]![[Pasted image 20240815143349.png]]![[Pasted image 20240815143425.png]]

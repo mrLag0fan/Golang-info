@@ -101,7 +101,7 @@ fmt.Println(mySlice) // Output: [10 30 40]
 ## What is the difference between values vs pointers vs reference params?
 - **Pass by value** will pass the value of the variable into the method, or we can say that the original variable ‘copy’ the value into another memory location and pass the newly created one into the method. So, anything that happens to the variable inside the method will not affect the original variable value.
 - **Pass by reference** will pass the memory location instead of the value. In other words, it passes the ‘container’ of the variable to the method so, anything that happens to the variable inside the method will affect the original variable.
-![[1_GXoMWqljArmbjB0ReNioag.gif]]![[1_GXoMWqljArmbjB0ReNioag.gif]]
+![[1_GXoMWqljArmbjB0ReNioag.gif]]![[
 ## What's the syntax of functions as a value?
 ```go
 func compute(fn func(float64, float64) float64) float64 {
